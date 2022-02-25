@@ -1,0 +1,25 @@
+*.pdf
+*.zip
+Machine_Learning/*
+*.onnx
+*bin/
+*.xsd
+*onvif
+*.mp4
+*.jpeg
+*.mp3
+VideoProcessing/*
+*bin/*
+*obj/*
+
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/

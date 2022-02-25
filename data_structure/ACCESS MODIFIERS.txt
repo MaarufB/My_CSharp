@@ -1,0 +1,14 @@
+There are 4 access modifiers in C#
+ * public
+ * protected
+ * internal
+ * private
+
+
+                        public      protected       internal        protected internal      private     private protected
+Entire program          yes         no              no              no                      no          no
+containing class        yes         yes             yes             yes                     yes         yes
+current assembly        yes         no              yes             yes                     no          no
+derived type            yes         yes             no              yes                     no          no
+derived types within    yes         yes             yes             yes                     no          yes
+current assembly     

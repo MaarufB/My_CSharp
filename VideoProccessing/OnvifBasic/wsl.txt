@@ -1,0 +1,3 @@
+https://www.onvif.org/ver10/device/wsdl/devicemgmt.wsdl
+https://www.onvif.org/ver20/media/wsdl/media.wsdl
+http://www.onvif.org/ver20/ptz/wsdl/ptz.wsdl

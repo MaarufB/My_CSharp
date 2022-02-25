@@ -1,0 +1,32 @@
+Important methods of generic list collection class in C#:
+The Generic List in C# provides a lot of useful methods that we can use to perform some operations on a collection of List Type. 
+The List Collection class provides the following functions.
+
+Contains() Method:
+The Contains() method is used to determine whether the specified item exists or not in the list. If the specified item exists 
+then it will return true else return false.
+
+Exists() Method:
+The Exists() method is also used to check or determine whether an item exists or not in a list based on a condition.
+If the item exists then it will return true else it will return false.
+
+Find() Method:
+The Find() method is used to find the first element from a list based on a condition that is specified by a lambda expression.
+
+FindLast() Method:
+The FindLast() method is used to searches for an element that matches the conditions specified by a predicate. 
+If it found any elements with that specified condition then it returns the Last matching element from the list.
+
+FindAll() Method:
+The FindAll() method is used to retrieves all the elements from a list that matches the conditions specified by a predicate. 
+
+FindIndex() Method:
+The FindIndex() method is used to return the index position of the first element that matches the conditions specified by a predicate. 
+The point that you need to remember is the index here in generic collections are zero-based. This method returns -1 if an element that 
+matches the specified conditions is not found. There are 2 other overloaded versions of this method is available, one of the overload 
+version allows us to specify the range of elements to search within the list.
+
+FindLastIndex() Method:
+The FindLastIndex() Method searches for an element in the list that matches the condition specified by the lambda expression and 
+then returns the index of the last occurrence of the item within the list. There are 2 other overloaded version of this method is 
+available, one of the overload version allows us to specify the range of elements to search within the list.
