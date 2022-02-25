@@ -9,8 +9,6 @@ namespace abstraction
     public class Employee
     {
         
-
-
          public static List<EmployeeModel> AddEmployee()
         {
             List<EmployeeModel> e = new List<EmployeeModel>();
