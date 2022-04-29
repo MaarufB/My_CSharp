@@ -31,7 +31,6 @@ namespace polymorphism_app
         }
     }
 
-
     class Rectangle:Shape
     {
         public override void Draw()
