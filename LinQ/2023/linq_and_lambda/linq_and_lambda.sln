@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq_and_lambda", "linq_and_lambda\linq_and_lambda.csproj", "{F07AF3E9-7A11-4AF2-A63C-28F5E1195BFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F07AF3E9-7A11-4AF2-A63C-28F5E1195BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07AF3E9-7A11-4AF2-A63C-28F5E1195BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07AF3E9-7A11-4AF2-A63C-28F5E1195BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07AF3E9-7A11-4AF2-A63C-28F5E1195BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E43255A-E5B0-425C-A65F-9D26C5DE9708}
+	EndGlobalSection
+EndGlobal
